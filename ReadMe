@@ -1,0 +1,31 @@
+Kirlilik Seviyesi Analizi (Veri Temizleme ve Hazırlama)
+
+Bu proje, hava kirliliği veri seti kullanılarak veri temizleme ve hazırlama süreçlerini gerçekleştirmeyi amaçlamaktadır. Python ve Jupyter Notebook kullanarak veri temizleme, aykırı değerleri giderme, görselleştirme ve analize hazır hale getirme gibi adımlar izlenmiştir.
+
+Proje İçeriği
+
+veri_temizleme.ipynb: Bu dosya, veri temizleme, dönüştürme ve görselleştirme adımlarını içerir.
+
+README.md: Proje hakkında genel bilgi ve kurulum adımlarını içerir.
+
+Kullanılan Teknolojiler
+
+Python (3.x sürümü)
+
+Jupyter Notebook
+
+Kütüphaneler:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+
+Veri Seti
+
+Bu projede kullanılan veri seti, Kaggle'dan indirilebilir. Veri seti, Beijing'deki farklı konumlardan toplanan hava kalitesi verilerini içermektedir.
+Veri setinde PM2.5, PM10, SO2, NO2, CO, O3 gibi kirleticilerin yanı sıra sıcaklık, basınç gibi çeşitli çevresel parametreler bulunmaktadır.
